@@ -247,8 +247,7 @@ export function HeroSection() {
               data-hero-lead
               className="mt-5 max-w-[60ch] text-base leading-relaxed text-[var(--ink-secondary)] sm:text-lg"
             >
-              Diseñamos plataformas digitales rápidas, claras y escalables con Next.js,
-              TypeScript y arquitectura moderna, desde landing pages hasta sistemas
+              Diseñamos plataformas digitales rápidas, claras y escalables. desde landing pages hasta sistemas
               e-commerce a medida.
             </p>
 
